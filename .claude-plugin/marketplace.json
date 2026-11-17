@@ -1,0 +1,32 @@
+{
+  "name": "jwexler10-aristotle",
+  "owner": {
+    "name": "Jason Wexler"
+  },
+  "metadata": {
+    "description": "The Aristotle skill by Jason Wexler.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "aristotle",
+      "source": "./",
+      "description": "First-principles analysis for architecture, product, and strategy decisions.",
+      "version": "1.0.0",
+      "category": "productivity",
+      "keywords": [
+        "claude-skills",
+        "claude-code",
+        "ai-agents",
+        "agent-skills",
+        "codex",
+        "cursor",
+        "claude-cowork",
+        "mcp",
+        "first-principles",
+        "architecture",
+        "decision-making"
+      ]
+    }
+  ]
+}

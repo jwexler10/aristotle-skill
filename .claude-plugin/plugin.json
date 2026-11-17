@@ -1,0 +1,26 @@
+{
+  "name": "aristotle",
+  "displayName": "Aristotle",
+  "version": "1.0.0",
+  "description": "First-principles analysis for architecture, product, and strategy decisions.",
+  "author": {
+    "name": "Jason Wexler",
+    "url": "https://github.com/jwexler10"
+  },
+  "homepage": "https://github.com/jwexler10/aristotle-skill#readme",
+  "repository": "https://github.com/jwexler10/aristotle-skill",
+  "license": "MIT",
+  "keywords": [
+    "claude-skills",
+    "claude-code",
+    "ai-agents",
+    "agent-skills",
+    "codex",
+    "cursor",
+    "claude-cowork",
+    "mcp",
+    "first-principles",
+    "architecture",
+    "decision-making"
+  ]
+}
